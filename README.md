@@ -12,6 +12,7 @@
 # Font properties
 ![WhatsApp Image 2023-06-16 at 11 03 45 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/41aa0d6e-42a7-400e-98df-2519b7996069)
 ![WhatsApp Image 2023-06-16 at 11 03 45 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/71c0ac11-f72a-46f2-8914-510d9ea5eecd)
+# Inspecting Css
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3719abb0-73c8-4e6d-b68e-6cc374cf1de9)
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/5143fad1-ef1c-4359-8838-33734ee8df9e)
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/68b5d2ef-718d-494d-98db-158a80526c83)
