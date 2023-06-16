@@ -9,6 +9,7 @@
 # section -6 css properties
 # css colors
 ![WhatsApp Image 2023-06-15 at 7 36 58 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/70bbeafb-e966-4790-b2b4-09bb5b2e3f6e)
+# Font properties
 ![WhatsApp Image 2023-06-16 at 11 03 45 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/41aa0d6e-42a7-400e-98df-2519b7996069)
 ![WhatsApp Image 2023-06-16 at 11 03 45 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/71c0ac11-f72a-46f2-8914-510d9ea5eecd)
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3719abb0-73c8-4e6d-b68e-6cc374cf1de9)
