@@ -18,7 +18,9 @@
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/5143fad1-ef1c-4359-8838-33734ee8df9e)
 # Content division element
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/68b5d2ef-718d-494d-98db-158a80526c83)
+# Project Motivational poster
 ![WhatsApp Image 2023-06-16 at 11 03 43 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/14dd1970-2f10-4243-848c-835c8dc2bcd2)
+# Section 7 Intermediate CSS
 ![WhatsApp Image 2023-06-18 at 4 50 34 PM (3)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/06cf1e27-cbb2-411d-9360-346dff086c87)
 ![WhatsApp Image 2023-06-18 at 4 50 34 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c4c6c385-3d75-4aa1-96ae-617f424e0995)
 ![WhatsApp Image 2023-06-18 at 4 50 34 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/38faff70-b355-4185-bc44-53e60dec7b53)
