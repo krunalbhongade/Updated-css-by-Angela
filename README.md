@@ -19,3 +19,10 @@
 # Content division element
 ![WhatsApp Image 2023-06-16 at 11 03 44 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/68b5d2ef-718d-494d-98db-158a80526c83)
 ![WhatsApp Image 2023-06-16 at 11 03 43 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/14dd1970-2f10-4243-848c-835c8dc2bcd2)
+![WhatsApp Image 2023-06-18 at 4 50 34 PM (3)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/06cf1e27-cbb2-411d-9360-346dff086c87)
+![WhatsApp Image 2023-06-18 at 4 50 34 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c4c6c385-3d75-4aa1-96ae-617f424e0995)
+![WhatsApp Image 2023-06-18 at 4 50 34 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/38faff70-b355-4185-bc44-53e60dec7b53)
+![WhatsApp Image 2023-06-18 at 4 50 34 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/1c53f4ad-383b-4724-9618-03a8d25e03b5)
+![WhatsApp Image 2023-06-18 at 4 50 33 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/e7588ef4-63dd-40db-b76d-6d4b8a4d99aa)
+![WhatsApp Image 2023-06-18 at 4 50 33 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ff1d2979-94ac-4683-b72b-640acd759687)
+![WhatsApp Image 2023-06-18 at 4 50 33 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/73368aa7-b2ff-425e-99da-dd8d12f9b1c8)
