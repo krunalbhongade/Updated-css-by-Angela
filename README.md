@@ -30,7 +30,9 @@
 ![WhatsApp Image 2023-06-18 at 4 50 33 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/e7588ef4-63dd-40db-b76d-6d4b8a4d99aa)
 ![WhatsApp Image 2023-06-18 at 4 50 33 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ff1d2979-94ac-4683-b72b-640acd759687)
 # Project CSS flag
+# Section 8 Advanced CSS
 ![WhatsApp Image 2023-06-18 at 4 50 33 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/73368aa7-b2ff-425e-99da-dd8d12f9b1c8)
+# CSS display
 ![WhatsApp Image 2023-06-20 at 4 29 34 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/d060ba8c-f043-4414-864d-bf01c004d30b)
 ![WhatsApp Image 2023-06-20 at 4 29 33 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/d3088920-326e-49e2-b3ea-2d90947bdcd3)
 ![WhatsApp Image 2023-06-20 at 4 29 33 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/836f649e-ed73-4efe-a73d-f338d89c3c7b)
