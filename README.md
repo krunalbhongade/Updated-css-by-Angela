@@ -50,6 +50,8 @@
 ![WhatsApp Image 2023-06-21 at 10 53 59 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c5c77b25-fd31-4be2-9f56-f405f1f3a2c9)
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/5882c925-3797-4ea3-8930-9e140559370f)
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ab3ffd99-e046-4d26-9917-cea5d201285a)
+# Flex direction
+# Flex layout
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3e6abb6a-4666-42f7-ba16-dfbe678b4035)
 ![WhatsApp Image 2023-06-21 at 10 53 57 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/022b7cf8-cd76-4639-9169-3b40acbaac67)
 ![WhatsApp Image 2023-06-21 at 10 53 57 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/582d0758-b22b-4c55-bf63-3d92f3f754a7)
