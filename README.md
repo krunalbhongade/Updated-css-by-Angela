@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-21 at 10 53 59 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c5c77b25-fd31-4be2-9f56-f405f1f3a2c9)
+
 # Updated-css-by-Angela
 # Introduction to css
 ![WhatsApp Image 2023-06-15 at 7 37 00 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/373550e6-c316-4473-8962-83142ed53882)
@@ -43,6 +43,7 @@
 # Media Queries
 ![WhatsApp Image 2023-06-20 at 4 29 32 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ddfd41c7-6542-4383-87a7-9f829a363b1a)
 # Web Design Agency Project
+![WhatsApp Image 2023-06-21 at 10 53 59 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c5c77b25-fd31-4be2-9f56-f405f1f3a2c9)
 ![WhatsApp Image 2023-06-20 at 4 29 32 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/edcfb6a0-b264-47b8-b6db-f068f01a216f)
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/5882c925-3797-4ea3-8930-9e140559370f)
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ab3ffd99-e046-4d26-9917-cea5d201285a)
