@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-06-21 at 10 53 59 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/c5c77b25-fd31-4be2-9f56-f405f1f3a2c9)
 # Updated-css-by-Angela
 # Introduction to css
 ![WhatsApp Image 2023-06-15 at 7 37 00 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/373550e6-c316-4473-8962-83142ed53882)
@@ -43,3 +44,13 @@
 ![WhatsApp Image 2023-06-20 at 4 29 32 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ddfd41c7-6542-4383-87a7-9f829a363b1a)
 # Web Design Agency Project
 ![WhatsApp Image 2023-06-20 at 4 29 32 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/edcfb6a0-b264-47b8-b6db-f068f01a216f)
+![WhatsApp Image 2023-06-21 at 10 53 58 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/5882c925-3797-4ea3-8930-9e140559370f)
+![WhatsApp Image 2023-06-21 at 10 53 58 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/ab3ffd99-e046-4d26-9917-cea5d201285a)
+![WhatsApp Image 2023-06-21 at 10 53 58 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3e6abb6a-4666-42f7-ba16-dfbe678b4035)
+![WhatsApp Image 2023-06-21 at 10 53 57 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/022b7cf8-cd76-4639-9169-3b40acbaac67)
+![WhatsApp Image 2023-06-21 at 10 53 57 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/582d0758-b22b-4c55-bf63-3d92f3f754a7)
+![WhatsApp Image 2023-06-21 at 10 53 57 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/a2218316-ba3f-427c-9ccc-bbb1828f72c7)
+![WhatsApp Image 2023-06-21 at 10 53 56 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/39eac897-0f80-4882-8a1d-0ea1cd1a28eb)
+![WhatsApp Image 2023-06-21 at 10 53 56 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3b0ba3d9-77be-48dd-94a5-496ea46985c9)
+![WhatsApp Image 2023-06-21 at 10 53 56 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/beb48911-bbaa-45e6-949a-da611ceb89df)
+![WhatsApp Image 2023-06-21 at 10 53 55 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/e036d7d7-1df7-4002-96b2-a72b090f6a98)
