@@ -53,6 +53,7 @@
 # Flex direction
 # Flex layout
 ![WhatsApp Image 2023-06-21 at 10 53 58 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3e6abb6a-4666-42f7-ba16-dfbe678b4035)
+# Flex Wrap
 ![WhatsApp Image 2023-06-21 at 10 53 57 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/022b7cf8-cd76-4639-9169-3b40acbaac67)
 ![WhatsApp Image 2023-06-21 at 10 53 57 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/582d0758-b22b-4c55-bf63-3d92f3f754a7)
 ![WhatsApp Image 2023-06-21 at 10 53 57 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/a2218316-ba3f-427c-9ccc-bbb1828f72c7)
