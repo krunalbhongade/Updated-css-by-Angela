@@ -64,6 +64,8 @@
 ![WhatsApp Image 2023-06-21 at 10 53 56 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3b0ba3d9-77be-48dd-94a5-496ea46985c9)
 ![WhatsApp Image 2023-06-21 at 10 53 56 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/beb48911-bbaa-45e6-949a-da611ceb89df)
 ![WhatsApp Image 2023-06-21 at 10 53 55 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/e036d7d7-1df7-4002-96b2-a72b090f6a98)
+# Section 10 Grid
+# Display Grid
 ![WhatsApp Image 2023-06-22 at 11 05 41 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/3bf914d6-040b-4337-90b7-14bd6703a9da)
 ![WhatsApp Image 2023-06-22 at 11 05 41 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/cdeb9ea3-4bfb-4872-adad-d09dbcac21c7)
 ![WhatsApp Image 2023-06-22 at 11 05 41 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/2437dfd0-278c-40ef-b7fb-8ba0a79fa9f5)
