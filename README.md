@@ -70,7 +70,7 @@
 # Grid sizing
 ![WhatsApp Image 2023-06-22 at 11 05 41 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/cdeb9ea3-4bfb-4872-adad-d09dbcac21c7)
 ![WhatsApp Image 2023-06-22 at 11 05 41 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/2437dfd0-278c-40ef-b7fb-8ba0a79fa9f5)
-
+# Grid placement
 ![WhatsApp Image 2023-06-22 at 11 05 40 PM (2)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/0af9b381-1d8a-48fb-ae2b-69bfabef795d)
 ![WhatsApp Image 2023-06-22 at 11 05 40 PM (1)](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/90bcf433-ba0f-4a5b-a60d-2f1eb6c09e2e)
 ![WhatsApp Image 2023-06-22 at 11 05 40 PM](https://github.com/krunalbhongade/Updated-css-by-Angela/assets/126875304/e141b7b9-242a-4409-8ec7-a7248f1a914b)
